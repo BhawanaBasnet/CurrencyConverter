@@ -1,0 +1,11 @@
+C:\Users\Bhawana Basnet\source\repos\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.exe.config
+C:\Users\Bhawana Basnet\source\repos\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.exe
+C:\Users\Bhawana Basnet\source\repos\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.pdb
+C:\Users\Bhawana Basnet\source\repos\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.AssemblyReference.cache
+C:\Users\Bhawana Basnet\source\repos\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.Form1.resources
+C:\Users\Bhawana Basnet\source\repos\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.Properties.Resources.resources
+C:\Users\Bhawana Basnet\source\repos\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.GenerateResource.cache
+C:\Users\Bhawana Basnet\source\repos\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.CoreCompileInputs.cache
+C:\Users\Bhawana Basnet\source\repos\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.exe
+C:\Users\Bhawana Basnet\source\repos\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.pdb
+C:\Users\Bhawana Basnet\source\repos\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.xml
